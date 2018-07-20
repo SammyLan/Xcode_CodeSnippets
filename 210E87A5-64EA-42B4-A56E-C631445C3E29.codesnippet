@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>propmarr</string>
+	<string>vmark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, strong) NSMutableArray * &lt;#val#&gt;;</string>
+	<string>#pragma mark -- &lt;#code#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E97155DE-6582-49B9-9043-39C41174BC58</string>
+	<string>210E87A5-64EA-42B4-A56E-C631445C3E29</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>@property (nonatomic, strong) NSMutableArray</string>
+	<string>#pragma mark </string>
 	<key>IDECodeSnippetTitle</key>
-	<string>propmarr</string>
+	<string>#pragma mark </string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
