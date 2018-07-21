@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>proparr</string>
+	<string>vproparr</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -17,10 +17,10 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>@property (nonatomic, copy) NSArray * ;</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>proparr</string>
+	<string>vproparr</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

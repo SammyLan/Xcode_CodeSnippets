@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>propd</string>
+	<string>vpropd</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -17,10 +17,10 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>property define</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>prop</string>
+	<string>vprop</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

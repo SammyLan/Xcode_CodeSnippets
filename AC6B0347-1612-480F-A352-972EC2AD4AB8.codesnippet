@@ -17,12 +17,12 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>mas_update</string>
+	<string>vmas_update</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>mas_update</string>
+	<string>vmas_update</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
