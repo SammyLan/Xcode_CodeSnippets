@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>propproto</string>
+	<string>mas_make</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property(nonatomic,weak) id&lt;&lt;#protocol#&gt;&gt; &lt;#name#&gt;;
+	<string>[&lt;#view#&gt; mas_makeConstraints:^(MASConstraintMaker *make){
+    &lt;#code#&gt;
+}];
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F100B2DB-5920-4E45-B8FD-D284CE995FDD</string>
+	<string>4A0A057B-8C17-43BB-BDBA-3A315A942EF8</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>propproto</string>
+	<string>mas_make</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>定义协议</string>
+	<string>Masonry Constraint Make</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

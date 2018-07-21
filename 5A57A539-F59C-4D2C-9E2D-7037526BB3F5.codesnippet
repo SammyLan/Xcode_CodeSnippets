@@ -3,25 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>propproto</string>
+	<string>propset</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property(nonatomic,weak) id&lt;&lt;#protocol#&gt;&gt; &lt;#name#&gt;;
-</string>
+	<string>@property (nonatomic, copy) NSSet * &lt;#val#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F100B2DB-5920-4E45-B8FD-D284CE995FDD</string>
+	<string>5A57A539-F59C-4D2C-9E2D-7037526BB3F5</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>propproto</string>
+	<string>propset</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>定义协议</string>
+	<string>定义NSSet</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

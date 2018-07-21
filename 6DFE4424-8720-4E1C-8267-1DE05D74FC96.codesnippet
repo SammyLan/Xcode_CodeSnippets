@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>vmas_make</string>
+	<string>propdict</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[&lt;#view#&gt; mas_makeConstraints:^(MASConstraintMaker *make) {
- &lt;#code#&gt; 
- }];</string>
+	<string>@property (nonatomic, copy) NSDictionary * &lt;#val#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>7D2A0B34-A027-4AFD-B48F-0C6F842D4BF6</string>
+	<string>6DFE4424-8720-4E1C-8267-1DE05D74FC96</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>vmas_make</string>
+	<string>propdict</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>vmas_make</string>
+	<string>定义NSDictionary</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>vmas_remake</string>
+	<string>propmstr</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[&lt;#view#&gt; mas_remakeConstraints:^(MASConstraintMaker *make) {
- &lt;#code#&gt; 
-}];</string>
+	<string>@property (nonatomic, strong) NSMutableString * &lt;#string#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E93089C6-C97C-4E96-A144-A795AE598665</string>
+	<string>7967F7F2-E78B-404D-A30F-7635988E674F</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>vmas_remake</string>
+	<string>propmstr</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>vmas_remake</string>
+	<string>定义NSMutableString</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>vpropint</string>
+	<string>propint</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, assign) NSInteger * &lt;#val#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EA34A819-0BA7-48DC-BF26-17C8F1321007</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>@property (nonatomic, assign) NSInteger * &lt;#val#&gt;;</string>
+	<string>propint</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>vpropint</string>
+	<string>定义NSInteger</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
