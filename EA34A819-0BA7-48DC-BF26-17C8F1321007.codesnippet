@@ -9,7 +9,7 @@
 		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, assign) NSInteger * &lt;#val#&gt;;</string>
+	<string>@property (nonatomic, assign) NSInteger  &lt;#val#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EA34A819-0BA7-48DC-BF26-17C8F1321007</string>
 	<key>IDECodeSnippetLanguage</key>
